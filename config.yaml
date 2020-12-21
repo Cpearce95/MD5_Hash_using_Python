@@ -1,0 +1,4 @@
+server : 'server_name01'
+db : 'hotel_bookings_db'
+table1 : 'tbl_discountproducts_v2'
+table2 : 'tbl_discountproducts_v3'
